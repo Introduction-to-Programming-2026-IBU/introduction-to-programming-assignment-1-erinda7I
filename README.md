@@ -24,3 +24,15 @@ clang -o pset1/hello/hello pset1/hello/hello.c -lcs50
 
 # Run it
 ./pset1/hello/hello
+
+## 🔐 Cybersecurity & Kali Linux
+
+This journey through C programming is the foundation for understanding:
+- **Memory vulnerabilities** (buffer overflows, segmentation faults)
+- **System-level programming** (how exploits interact with hardware)
+- **Forensics** (JPEG recovery, file carving techniques)
+- **Cryptography** (Caesar, substitution ciphers)
+
+All exercises were developed and tested on **Kali Linux** — the go-to OS for penetration testing and security research.
+
+*Special thanks to @n8 for the inspiration to explore the intersection of C programming and cybersecurity.*
