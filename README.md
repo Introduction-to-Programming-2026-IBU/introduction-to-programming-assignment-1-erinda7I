@@ -35,4 +35,4 @@ This journey through C programming is the foundation for understanding:
 
 All exercises were developed and tested on **Kali Linux** — the go-to OS for penetration testing and security research.
 
-*Special thanks to @n8 for the inspiration to explore the intersection of C programming and cybersecurity.*
+*Special thanks to n8 for the inspiration to explore the intersection of C programming and cybersecurity.*
